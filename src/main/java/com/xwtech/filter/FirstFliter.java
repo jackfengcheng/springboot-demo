@@ -10,7 +10,7 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebFilter;
 
-@WebFilter(filterName="FirstFliter",urlPatterns={"*.do","*.jsp","/first"})
+@WebFilter(filterName="FirstFliter",urlPatterns={"*.do","/first"})
 public class FirstFliter implements Filter{
 
 	@Override

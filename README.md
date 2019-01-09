@@ -1,2 +1,1 @@
-# springboot-demo
-springboot整合
+这是springboot整合的一些案列，我在持久层用的是jpa，当然也可以用mybatis，都是没有什么问题的。这是我专门提供的一个伪移动端做接口的，使用起来非常的方便。
